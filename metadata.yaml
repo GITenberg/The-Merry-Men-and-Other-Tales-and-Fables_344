@@ -1,0 +1,40 @@
+_repo: The-Merry-Men-and-Other-Tales-and-Fables_344
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: "The Merry Men and Other Tales and Fables (1887) is a collection of short\
+  \ stories by Robert Louis Stevenson. The title derives from the local name given\
+  \ to a group of waves in the title short story, not from the Merry Men of Robin\
+  \ Hood tales.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '344'
+  wikidata: Q3232887
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Great Britain -- History -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The merry men -- Will o' the mill -- Markheim -- Thrawn Janet --
+  Olalla -- The treasure of Franchard.
+title: The Merry Men, and Other Tales and Fables
+url: http://www.gutenberg.org/ebooks/344
+wikipedia:
+- https://en.wikisource.org/wiki/The_Merry_Men_and_Other_Tales_and_Fables
+- https://en.wikipedia.org/wiki/The_Merry_Men_and_Other_Tales_and_Fables
+- https://fr.wikipedia.org/wiki/Les_Gais_Lurons_et_autres_contes
+- https://it.wikipedia.org/wiki/Gli_allegri_compari_e_altri_racconti
