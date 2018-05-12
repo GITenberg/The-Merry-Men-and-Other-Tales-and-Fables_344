@@ -1,5 +1,8 @@
 _repo: The-Merry-Men-and-Other-Tales-and-Fables_344
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -13,6 +16,8 @@ description: "The Merry Men and Other Tales and Fables (1887) is a collection of
   \ stories by Robert Louis Stevenson. The title derives from the local name given\
   \ to a group of waves in the title short story, not from the Merry Men of Robin\
   \ Hood tales.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/344#The-Merry-Men-and-Other-Tales-and-Fables
 gutenberg_issued: '1995-10-01'
 gutenberg_type: Text
 identifiers:
